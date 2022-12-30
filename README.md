@@ -1,2 +1,2 @@
 # ProjekDataScience
-The project regarding Data Science that I've done made with various Programming Language
+If you are reading this, I wish you have a pleasant day!!
